@@ -58,14 +58,14 @@ input, button {
 }
 
 button {
-    background-color: #28a745;
+    background-color: #882121;
     color: #fff;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: #882121;
 }
 
 ul {
